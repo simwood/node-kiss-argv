@@ -1,6 +1,6 @@
 {
   "name": "kiss-argv",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "No frills argv parser",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,13 @@
     "parser"
   ],
   "author": "JM.Hiver",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simwood/node-kiss-argv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/simwood/node-kiss-argv/issues"
+  },
+  "homepage": "https://github.com/simwood/node-kiss-argv"
 }
